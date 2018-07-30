@@ -1,1 +1,4 @@
-This is a file for tesing pull or fetch file to local machine.
+This is a file for testing pull or fetch file to local machine.
+
+Pull is will
+Fetch ?
